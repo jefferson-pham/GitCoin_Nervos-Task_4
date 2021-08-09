@@ -11,3 +11,12 @@
 3. A link to the transaction ID created by sudt-cli on the Testnet Explorer.
 
 [Link to Transaction ID](https://explorer.nervos.org/aggron/transaction/0xed4ed868e8f02c42278a58edaa891375a38d6727308456516932211af87966f9)
+
+4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
+
+![image](https://user-images.githubusercontent.com/87713875/128693158-b089a13c-17fc-4b15-a2bd-28365798994c.png)
+
+5. The SUDT ID from the console output after executing the deposit script (in text format)
+
+684
+
